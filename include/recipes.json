@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mailänderli",
+        "ingredients": "150 grams unsalted butter, softened; 150 grams sugar; 1 egg; 1 egg yolk; 1/2 to 1 teaspoon vanilla extract or paste; zest of half a lemon, one lime or a small orange; 250 grams all-purpose (white) flour; 1/2 teaspoons salt",
+        "added_ingredients": "Brush on before baking: 1 egg yolk; 1 teaspoon milk; 1/4 teaspoon sugar",
+        "baking_time_min_minutes": 10,
+        "baking_time_max_minutes": 15
+    },
+    {
+        "name": "Brunsli",
+        "ingredients": "200 g dark chocolate (64%); 200 g sugar; 200 g ground almonds or hazelnuts; 2 teaspoons cinnamon; ¼ teaspoon ground cloves; ¼ teaspoon white pepper; 2 egg whites; ¼ teaspoon salt; 1-2 tablespoons kirsch",
+        "added_ingredients": " 1-2 tablespoons white flour (for dusting the rolling pin and work surface*)",
+        "baking_time_min_minutes": 8,
+        "baking_time_max_minutes": 10
+    },
+    {
+        "name": "Spitzbuebe",
+        "ingredients": "250 g (9 oz) butter; 1 egg white; 350 g (12 oz) flour; 125 g (4.5 oz) confectioners sugar; 2 tea spoons of vanilla sugar; pinch of salt; 200 g jelly (apricot, raspberry, bitter orange, etc.)",
+        "added_ingredients": "None",
+        "baking_time_min_minutes": 6,
+        "baking_time_max_minutes": 8
+    },
+    {
+        "name": "Zimtstärn",
+        "ingredients": "250 g ground almonds; 1 tablespoon ground cinnamon; 1/4 teaspoon ground cloves; 1/4 teaspoon ground ginger; zest of half an organic lemon; 2 egg whites; 1/4 teaspoon salt; 125 g powdered sugar, sifted; 1 tablespoon kirsch (or water)",
+        "added_ingredients": "None",
+        "baking_time_min_minutes": 5,
+        "baking_time_max_minutes": 7
+    }
+]
