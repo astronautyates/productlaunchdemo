@@ -5,7 +5,7 @@ from airflow.models import Variable
 
 # Function that will be executed by the PythonOperator
 def check_variable():
-    my_var = Variable.get("my_variable", default_var=1)
+    my_var = Variable.get("my_variable", default_var=2)
     if int(my_var) == 2:
         raise ValueError("Variable is set to 2, failing the task.")
     elif int(my_var) == 1:
